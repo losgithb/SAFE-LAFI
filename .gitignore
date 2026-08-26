@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.tmp_*/
+*.npy
+*.npz
+states/
